@@ -1,10 +1,12 @@
 # AryaBootstrap
 ### AryaBootstrap is a bootstrap with dual layout align support and, used for LTR and RTL web design.
+Based on Bootstrap Ver 4.3.1
 
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
 
 # آریا بوت استرپ
 ### آریا بوت استرپ کتابخانه بوت استرپ دوگانه چپ چین و راست چین است
+این نسخه از آریا بوت استرپ بر پایه نسخه 4.3.1 بوت استرپ پیاده سازی شده است.
 
 </div>
 
