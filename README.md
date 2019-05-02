@@ -1,6 +1,6 @@
 # AryaBootstrap
 ### AryaBootstrap is a bootstrap with dual layout align support and, used for LTR and RTL web design.
-Based on Bootstrap Ver 4.3.1 - Read English Version (ReadMe.EN.md)[https://github.com/mRizvandi/AryaBootstrap/blob/master/ReadMe.En.md]
+Based on Bootstrap Ver 4.3.1 - Read English Version [ReadMe.EN.md](https://github.com/mRizvandi/AryaBootstrap/blob/master/ReadMe.En.md)
 
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
 
@@ -61,7 +61,7 @@ Based on Bootstrap Ver 4.3.1 - Read English Version (ReadMe.EN.md)[https://githu
 
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
 
-#### 4. Add dir property to html
+#### 4. اضافه کردن خصوصیت dir به html
 بسیار خوب، اضافه کردن خصوصیت dir برای تعیین وضعیت چیدمان صفحه به تگ html آخرین کاری است که باید انجام دهید:
 
 </div>
