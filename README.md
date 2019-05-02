@@ -1,6 +1,6 @@
 # AryaBootstrap
 ### AryaBootstrap is a bootstrap with dual layout align support and, used for LTR and RTL web design.
-Based on Bootstrap Ver 4.3.1
+Based on Bootstrap Ver 4.3.1 - Read English Version (ReadMe.EN.md)[https://github.com/mRizvandi/AryaBootstrap/blob/master/ReadMe.En.md]
 
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
 
@@ -31,7 +31,7 @@ Based on Bootstrap Ver 4.3.1
 
 دقت نمایید که در نسخه کامل، فایلهای مورد نیاز بوت استرپ نیز در فایل دانلود شده قرار دارد و نیازی به دانلود آنها نیست.
 
-#### 2. اضافه کردن فایلها به صفحه
+#### 2. اضافه کردن فایل استایل
 
 پس از اضافه نمودن فایلها به پروژه ابتدا، فایل css را به صفحه، صفحات یا الگوی خود اضافه کنید.
 
@@ -43,7 +43,7 @@ Based on Bootstrap Ver 4.3.1
 
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
 
-#### 3. اضافه کردن جاوا اسکریپت
+#### 3. اضافه کردن فایلهای جاوا اسکریپت
 
 با توجه به اینکه برخی از کامپوننتهای بوت استرپ نیازمند کدهای جاوا اسکریپت هستند، لازم است فایل جاوا اسکریپت بوت استرپ به صفحه اضافه شود.
 
@@ -61,6 +61,7 @@ Based on Bootstrap Ver 4.3.1
 
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
 
+#### 4. Add dir property to html
 بسیار خوب، اضافه کردن خصوصیت dir برای تعیین وضعیت چیدمان صفحه به تگ html آخرین کاری است که باید انجام دهید:
 
 </div>
