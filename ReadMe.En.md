@@ -12,7 +12,7 @@ AryaBootstrap is an open source toolkit for developing with HTML, CSS, and JS. Q
 
 Installation AryaBootstrap is as simple as Bootstrap.
 
-#### 1. First at all, Download the github AryaBootstrap repository، [GitHub](http://github.com/mRizvandi/AryaBootstrap).
+#### 1. First of all, Download the github AryaBootstrap repository، [GitHub](http://github.com/mRizvandi/AryaBootstrap).
 
 Extract the files and folders, copy Css and Js folders to your project.
 
