@@ -3873,9 +3873,12 @@ html[dir=rtl] .custom-switch .custom-control-label::after {right: calc(-2.25rem 
 
 .custom-switch .custom-control-input:checked ~ .custom-control-label::after {
   background-color: #fff;
-  -webkit-transform: translateX(0.75rem);
-  transform: translateX(0.75rem);
+  /*-webkit-transform: translateX(0.75rem);
+  transform: translateX(0.75rem);*//* AryaVtd */
 }
+/* AryaVtd */
+html[dir=ltr] .custom-switch .custom-control-input:checked ~ .custom-control-label::after {-webkit-transform: translateX(0.75rem);transform: translateX(0.75rem);}
+html[dir=rtl] .custom-switch .custom-control-input:checked ~ .custom-control-label::after {-webkit-transform: translateX(-0.75rem);transform: translateX(-0.75rem);}
 
 .custom-switch .custom-control-input:disabled:checked ~ .custom-control-label::before {
   background-color: rgba(0, 123, 255, 0.5);
