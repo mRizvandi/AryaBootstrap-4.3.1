@@ -1,6 +1,6 @@
 # AryaBootstrap
 ### AryaBootstrap is a bootstrap with dual layout align support and, used for LTR and RTL web design.
-Based on Bootstrap Ver 4.3.1 - Read English Version [ReadMe.EN.md](https://github.com/mRizvandi/AryaBootstrap/blob/master/ReadMe.En.md)
+Based on Bootstrap Ver 4.3.1 - Read English Version [ReadMe.EN.md](https://github.com/mRizvandi/AryaBootstrap-4.3.1/blob/master/ReadMe.En.md)
 
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
 
@@ -25,7 +25,7 @@ Based on Bootstrap Ver 4.3.1 - Read English Version [ReadMe.EN.md](https://githu
 
 راه اندازی آریا بوت استرپ به همان سادگی راه اندازی بوت استرپ است.
 
-#### 1. برای شروع، فایلهای آریا بوت استرپ را از [گیت هاب](http://github.com/mRizvandi/AryaBootstrap) دانلود کنید.
+#### 1. برای شروع، فایلهای آریا بوت استرپ را از [گیت هاب](http://github.com/mRizvandi/AryaBootstrap-4.3.1) دانلود کنید.
 
 پس از دانلود، فایلها را از حالت فشرده خارج نمایید، پس از این عمل پوشه های css و js را به مسیر پروژه خود کپی کنید.
 
